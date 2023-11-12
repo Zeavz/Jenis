@@ -26,10 +26,12 @@ function App() {
                 'An expert in AWS',
                 1000,
                 'An expert in Docker',
+                1000,
             ]}
             wrapper="span"
             speed={50}
             preRenderFirstString={true}
+            style={{ fontSize: '2em', display: 'inline-block' }}
             repeat={Infinity}
         />
       </div>
