@@ -11,8 +11,6 @@ function App() {
         </p>
         <TypeAnimation
             sequence={[
-                'An expert in',
-                1000,
                 'An expert in React',
                 1000,
                 'An expert in Node',
