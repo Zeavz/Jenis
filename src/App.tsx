@@ -29,6 +29,8 @@ function App() {
                 1000,
                 'An expert in Cloud',
                 1000,
+                'An expert in Mobile',
+                1000,
             ]}
             wrapper="span"
             speed={50}
