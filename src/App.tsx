@@ -29,7 +29,7 @@ function App() {
                 1000,
                 'An expert in Cloud',
                 1000,
-                'An expert in Mobile',
+                'An expert in React Native',
                 1000,
             ]}
             wrapper="span"
